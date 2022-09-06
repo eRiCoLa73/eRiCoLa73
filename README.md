@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Erica
 #### I am single mom of two starting life over with nothing but my own skills.
-![I am single mom of two starting life over with nothing but my own skills.]
+
 
 <!--
 **eRiCoLa73/eRiCoLa73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
