@@ -10,11 +10,6 @@ I am a self taught tech newbie and I have no intention of stopping. I honestly a
 
 **eRiCoLa73/eRiCoLa73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eRiCoLa73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ericacuerbo//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRiCoLa73)](https://github.com/anuraghazra/github-readme-stats)
