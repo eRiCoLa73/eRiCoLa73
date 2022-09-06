@@ -4,6 +4,7 @@ I am a self taught tech newbie and I have no intention of stopping. I honestly a
 
 - 🔭 I’m currently working on IBM DATA WAREHOUSE ENGINEER PROFESSIONAL CERTIFICATE  
 - 🌱 I’m currently learning to create Data Pipelines to extract, transform and load data repositories using shell scripts, and tools such as Apache Airflow & Kafka; to Deploy, Manage, Secure, Operationalize, Monitor and Optimize relational database systems like MySQL, PostgreSQL, and DB2; to Design and populate Data Warehouses and analyze their data with Business Intelligence (BI) tools like Cognos Analytics 
+- 💞️ I love my Children, Fireworks and Fine Jewelry.
 - 🤔 I’m looking for help with finding a remote position. 
 - ⚡ Fun fact: I used to be a nun and didn't even have an email. 
 
