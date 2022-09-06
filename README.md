@@ -8,7 +8,6 @@ I am a self taught tech newbie and I have no intention of stopping. I honestly a
 - ⚡ Fun fact: I used to be a nun and didn't even have an email. 
 
 
-<!--
 **eRiCoLa73/eRiCoLa73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
